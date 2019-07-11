@@ -1,0 +1,29 @@
+﻿生成启动时间为 2017/10/27 12:35:17。
+     1>项目“E:\1 DentalTouch\23五杆机构设备\3 控制程序\FiveBar\OneDOF\OneDOF.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\OneDOF.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\OneDOF.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CANCmd.cpp FiveBarKinematics.cpp OneDOF.cpp OneDOFDlg.cpp SerialPort.cpp
+         CANCmd.cpp
+         FiveBarKinematics.cpp
+         OneDOF.cpp
+         OneDOFDlg.cpp
+         SerialPort.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\OneDOF.res" OneDOF.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1 DentalTouch\23五杆机构设备\3 控制程序\FiveBar\Release\OneDOF.exe" /INCREMENTAL:NO /NOLOGO opencv_ml2413d.lib opencv_calib3d2413d.lib opencv_contrib2413d.lib opencv_core2413d.lib opencv_features2d2413d.lib opencv_flann2413d.lib opencv_gpu2413d.lib opencv_highgui2413d.lib opencv_imgproc2413d.lib opencv_legacy2413d.lib opencv_objdetect2413d.lib opencv_ts2413d.lib opencv_video2413d.lib opencv_nonfree2413d.lib opencv_ocl2413d.lib opencv_photo2413d.lib opencv_stitching2413d.lib opencv_superres2413d.lib opencv_videostab2413d.lib opencv_objdetect2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_nonfree2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_videostab2413.lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\1 DentalTouch\23五杆机构设备\3 控制程序\FiveBar\Release\OneDOF.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1 DentalTouch\23五杆机构设备\3 控制程序\FiveBar\Release\OneDOF.lib" /MACHINE:X86 /SAFESEH Release\OneDOF.res
+         Release\CANCmd.obj
+         Release\FiveBarKinematics.obj
+         Release\OneDOF.obj
+         Release\OneDOFDlg.obj
+         Release\SerialPort.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         OneDOF.vcxproj -> E:\1 DentalTouch\23五杆机构设备\3 控制程序\FiveBar\Release\OneDOF.exe
+     1>已完成生成项目“E:\1 DentalTouch\23五杆机构设备\3 控制程序\FiveBar\OneDOF\OneDOF.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.35
