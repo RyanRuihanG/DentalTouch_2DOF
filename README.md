@@ -14,4 +14,5 @@ The control system and types of hardwares:
 </div>
 
 This project be reorganized to a more understandable verion. 
+
 Please refer to the DentalTouch_2DOF/OneDOF/OneDOFDlg.cpp to see the main implementing process.
